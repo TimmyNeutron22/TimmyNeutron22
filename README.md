@@ -1,5 +1,5 @@
 -  Oh, why hello there, everyone! 👋 I’m @TimmyNeutron22!
--  I’m really excited about learning how to code. I have a whole plan on contributing to a mod for another game. You will find that out some other time, or maybe never. Hehe, sorry!
+-  I’m really excited about learning how to code. I have a whole plan on contributing to a mod for another game. You will find that out some other time, or maybe never. Hehe, sorry...
 -  I’m currently learning about how to code by looking at other coding references from the mod for the other game that I just previously talked about!
 -  Again, I’m thinking about contributing to the mod I've been mentioning several times and make something special for that great mod!
 -  How to reach me - Nowhere -- Sorry! I'm not giving you any of my social platforms. Thanks for asking anyway, everyone and/or GitHub, though!
